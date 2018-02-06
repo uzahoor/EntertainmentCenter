@@ -34,6 +34,7 @@ main_page_head = '''
             width: 100%;
             height: 100%;
         }
+        // added a zoom in animation and some spacing for the zoom in
         .movie-tile {
             margin-top: 20px;
             margin-bottom: 20px;

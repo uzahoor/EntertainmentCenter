@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 2. Ensure that all the required files are found in the same directory ('media.py', 'entertainment_center.py', 'fresh_tomatoes.py')
 3. Run 'entertainment_center.py' 
 ```
-$ entertainment_center.py
+$ python entertainment_center.py
 
 ```
 4. A web page should pop up displaying Entertainment Center and a html document should be generated in the directory.
